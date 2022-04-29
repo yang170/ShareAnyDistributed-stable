@@ -1,0 +1,10 @@
+{
+    "rid": "Sapce ID",
+    "rpwd": "Sapce Password",
+    "join": "Join",
+    "passwordPlaceholder": "Optional",
+    "errMsgTitleInvalidID": "Space ID is invalid",
+    "errMsgDetailInvalidID": "Please fill the space ID",
+    "errMsgTitleIncorrect": "Space ID or password is incorrect",
+    "errMsgDetailIncorrect": "Please enter the correct space ID and password"
+}

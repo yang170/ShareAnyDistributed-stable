@@ -1,0 +1,6 @@
+{
+    "title": "Set a Password",
+    "passwordPlaceholder": "Optional",
+    "passwordNotice": "Password is optional, anyone can join your space if no password is provided",
+    "createButton": "Create"
+}
